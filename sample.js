@@ -3,5 +3,5 @@ return x*y;
 }
 const result = doMath(5,6);
 console.log(result);
-// Output: NaN
-// The function doMath expects two arguments, but only one is provided.
+// This is a simple function that multiplies two numbers
+// and logs the result to the console.
