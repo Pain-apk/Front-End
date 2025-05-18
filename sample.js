@@ -12,3 +12,12 @@ console.log(counter)
 // Use let whenever you use to reassign a variable
 // Use const whenever you don't want to reassign a variable
 // Use var whenever you want to reassign a variable
+//camelcase=CounterIsUsed
+//snake_case=Counter_Is_Used
+//pascalcase=CounterIsUsed Same as camelcase but first letter is capital
+//constantcase=COUNTER_IS_USED
+// Use camelcase for variables and functions
+// Use snake_case for file names
+// Use pascalcase for classes
+// Use constantcase for constants
+//Lowercase for functions
