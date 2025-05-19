@@ -40,3 +40,16 @@ a+=b;
 //assignment of a+b to a using +=
 console.log(a);
 //similary we can use -=,*=,/=,%=,**=
+//Comparison Operators
+let x = 10;
+let y = 20;
+let stingx = "10";
+console.log(x==y);
+//== operator is used to compare two values and return a boolean result
+console.log(x==stringx);
+//== operators is not that strict as it allows data type conversionn
+console.log(x===stringx);
+//===, !== operators is used when you strictly want to compare two values without data type conversion
+console.log(x!=y);
+//not equal to ad !== strictly not equal to
+//other operators are >,<,>=,<=
