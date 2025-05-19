@@ -6,3 +6,37 @@
 //4.Logical Operators(&&,||,!)
 //5.Bitwise Operators(&,|,^,~,<<,>>)
 //6.Ternary Operators( ? : )
+//Arithmeti Operators
+let a = 10;
+let b = 20;
+let sum = a+b;
+//+ Operator is used to add two numbers or concatenate two strings
+let string1= "hello";
+let string2= "Aditya";
+let string3 = string1 + string2;
+console.log(string3);
+console.log(sum);
+let diff = a-b;
+console.log(diff);
+let product = a*b;
+console.log(product);
+let quotient = a/b;
+console.log(quotient);
+let remainder = a%b;
+console.log(remaninder);
+let exponent = a**b;
+console.log("We used exponent operator to find a to the powe 2"+a**2);
+a ++;
+console.log(a);
+//increment 1 is added to a
+b --;
+consnole.log(b);
+//decrement 1 is substracted from b
+//Assignment Operators
+c=a+b;
+//Assignment of a+b to c using =
+consnole.log(c);
+a+=b;
+//assignment of a+b to a using +=
+console.log(a);
+//similary we can use -=,*=,/=,%=,**=
