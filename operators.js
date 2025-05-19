@@ -63,3 +63,4 @@ console.log(v<w && w>p);
 console.log(v<w || w>p);
 // || operator is used to check if any one conditio is true
 // ! operator is used to check if condition is false
+// Remember you cannot compare objects and arrays using logical operators 
