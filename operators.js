@@ -16,7 +16,7 @@ let string2= "Aditya";
 let string3 = string1 + string2;
 console.log(string3);
 console.log(sum);
-let diff = a-b;
+let diff = b-a;
 console.log(diff);
 let product = a*b;
 console.log(product);
@@ -25,7 +25,7 @@ console.log(quotient);
 let remainder = a%b;
 console.log(remainder);
 let exponent = a**b;
-console.log("We used exponent operator to find a to the powe 2"+a**2);
+console.log("We used exponent operator to find a to the power of  2  =" +a**2);
 a ++;
 console.log(a);
 //increment 1 is added to a
