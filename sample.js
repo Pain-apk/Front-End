@@ -21,3 +21,5 @@ console.log(counter)
 // Use pascalcase for classes
 // Use constantcase for constants
 //Lowercase for functions
+//follow style guide for different companies
+
