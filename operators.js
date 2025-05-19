@@ -53,3 +53,13 @@ console.log(x===stringx);
 console.log(x!=y);
 //not equal to ad !== strictly not equal to
 //other operators are >,<,>=,<=
+//Logical Operators
+let v = 10;
+let w = 20;
+let z = 30;
+let p = 40;
+console.log(v<w && w>p);
+//&& operator is used to check is both conditions are true
+console.log(v<w || w>p);
+// || operator is used to check if any one conditio is true
+// ! operator is used to check if condition is false
