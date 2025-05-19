@@ -65,3 +65,9 @@ function printEvenNumbers(arr) {
 }
 
 printEvenNumbers([1, 2, 3, 4, 5, 6]);
+const arrowfunction = () => {
+    console.log("I am an arrow function");
+
+}
+arrowfunction();
+// Example: Using functions, conditionals, and loops together
