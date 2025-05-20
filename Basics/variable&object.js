@@ -56,3 +56,8 @@ for(i=0;i<myArray.length;i++){
 //console.log("1"+2+2);
 //both will print different output and to prevent these
 // we use () parenthesis inorder to seperate the values
+// There are 2 types of memory Stack for primitive data types
+// and heap for non primitive data types
+//primitives data tpyes are called by vaalue
+//primitive data type values are called by reference
+//Stack(primitive), Heap(non-primitive)
