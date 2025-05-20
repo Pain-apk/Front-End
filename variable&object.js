@@ -16,6 +16,10 @@ const num = Number(str);
  //number to boolean
  const num3 = 0;
  const bool = Boolean(num3);
+ /* "33" => 33
+ "33abs" => NaN
+ null => 0
+ */
  console.log(typeof bool);
  //old way of declaring variables
 const myArray = [1,2,3,4,5];
