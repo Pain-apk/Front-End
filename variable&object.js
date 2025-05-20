@@ -4,7 +4,20 @@ let b = 20;
 //variable can be changed or reassigned
 b = 30;
 var c = 40;
-//old way of declaring variables
+/*type conversion of variables
+String to number */
+const str = "123";
+const num = Number(str);
+ console.log(typeof num);
+ //number to string
+ const num2 = 456;
+ const str2 = String(num2);
+ console.log(typeof str2);
+ //number to boolean
+ const num3 = 0;
+ const bool = Boolean(num3);
+ console.log(typeof bool);
+ //old way of declaring variables
 const myArray = [1,2,3,4,5];
  object1 = {
     name: "Aditya",
