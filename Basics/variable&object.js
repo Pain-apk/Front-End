@@ -39,6 +39,23 @@ nestedObject = {
       country: "India",
   }
 }
+let people = [
+  ["aditya","Rahul"],
+  ["Aniket","Sanket"],
+  ["Rohan","Sohan"],
+];
+console.table(people);
+console.table(object1);
+//Used to display data in tabular format
+//Type conversion in JavaScript
+//String to number
+let score  = "44";
+let scoreint = Number(score);
+console.log(scoreint);
+//If we convert this type of String then it will give NaN
+let score2  = "44avc";
+let scoreint2 = Number(score);
+console.log(scoreint);
 //console.log(myArray.slice(0,4));
 //console.log(a);
 //console.log(b);
