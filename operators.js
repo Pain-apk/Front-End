@@ -61,6 +61,7 @@ let p = 40;
 console.log(v<w && w>p);
 //&& operator is used to check is both conditions are true
 console.log(v<w || w>p);
+console.table(v,w,z,p);
 // || operator is used to check if any one conditio is true
 // ! operator is used to check if condition is false
 // Remember you cannot compare objects and arrays using logical operators 
