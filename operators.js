@@ -54,7 +54,7 @@ console.log(x!=y);
 //not equal to ad !== strictly not equal to
 //other operators are >,<,>=,<=
 //Logical Operators
-let v = 10;
+let v = 10; 
 let w = 20;
 let z = 30;
 let p = 40;
