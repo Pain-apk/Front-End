@@ -54,14 +54,16 @@ let scoreint = Number(score);
 console.log(scoreint);
 //If we convert this type of String then it will give NaN
 let score2  = "44avc";
-let scoreint2 = Number(score);
+let scoreint2 = Number(score2);
+let booleanscore = Boolean(scoreint2);
+console.log(booleanscore);
 console.log(scoreint);
-//console.log(myArray.slice(0,4));
-//console.log(a);
-//console.log(b);
-//console.log(c);
+console.log(myArray.slice(0,4));
+console.log(a);
+console.log(b);
+console.log(c);
 for(i=0;i<myArray.length;i++){
-  //  console.log(myArray[i]);
+  console.log(myArray[i]);
 
 }
 /*ways to print arrays, objects, nested objects
