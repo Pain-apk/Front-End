@@ -55,6 +55,9 @@ console.log(scoreint);
 //If we convert this type of String then it will give NaN
 let score2  = "44avc";
 let scoreint2 = Number(score2);
+//boolean conversion in JS
+//False value: "0", 0, null, undefined, NaN, ""
+//True value: " ", "Aditya", 33, -33, []
 let booleanscore = Boolean(scoreint2);
 console.log(booleanscore);
 console.log(scoreint);
